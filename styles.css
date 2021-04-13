@@ -1,0 +1,54 @@
+nav h1 {
+    margin: 10px;
+    margin-bottom: 25px;
+    font-size: 35px;
+    color: #2aa198;
+}
+
+.result {
+    color: #dc322f;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    padding: 0 0 10px 10px;
+    color: #dc322f;
+}
+
+body {
+    background: #eee8d5;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.player-points {
+    color: #b58900;
+}
+
+.computer-points {
+    color: #859900;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 17px;
+    color: white;
+}
+
+.btn-rock {
+    background: #d33682;
+}
+
+.btn-paper {
+    background: #6c71c4;
+}
+
+.btn-scissors {
+    background: #cb4b16;
+}
+
+.reset {
+    background: #dc322f;
+}
